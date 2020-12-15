@@ -31,6 +31,7 @@
         </div>
     </div>
     <button type="button" class="btn btn-default">Take a Screenshot!</button>
+    <button type="button" class="home"><a href="https://howsyourdaygoing.azurewebsites.net/#Home">Home</button>
     <script>
         document.querySelector('button').addEventListener('click', function() {
             html2canvas(document.querySelector('.specific'), {
