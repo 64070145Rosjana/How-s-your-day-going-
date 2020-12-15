@@ -15,7 +15,7 @@
             <div class="paper-content">
                 <div class="paper-head">
                     <div class="paper-items">
-                        <b>Diary : <?php echo $['Diary']?></b>
+                        <b>Diary : <?php echo $_POST['Diary']?></b>
                     </div>
                     <div class="paper-items">
                         <b> by : <?php echo $_POST['name']?></b>
