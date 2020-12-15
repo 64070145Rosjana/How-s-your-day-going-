@@ -15,13 +15,13 @@
             <div class="paper-content">
                 <div class="paper-head">
                     <div class="paper-items">
-                        <b>Diary : </b>
+                        <b>Diary : <?php echo $['Diary']?></b>
                     </div>
                     <div class="paper-items">
-                        <b> by : </b>
+                        <b> by : <?php echo $_POST['name']?></b>
                     </div>
                     <div class="paper-items">
-                        <b> Date : </b>
+                        <b> Date : <?php echo $_POST['Date']?></b>
                     </div>
                     <div class="paper-items-text">
                         <b><?php echo $_POST['Story']?></b>
