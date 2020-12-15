@@ -24,7 +24,7 @@
                         <b> Date : </b>
                     </div>
                     <div class="paper-items-text">
-                        <b>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti itaque nemo praesentium odio. Soluta eum enim consectetur, a architecto maxime nisi, aliquam harum temporibus quos quam expedita repudiandae, quasi ratione?Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti itaque nemo praesentium odio. Soluta eum enim consectetur, a architecto maxime nisi, aliquam harum temporibus quos quam expedita repudiandae, quasi ratione?Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti itaque nemo praesentium odio. Soluta eum enim consectetur, a architecto maxime nisi, aliquam harum temporibus quos quam expedita repudiandae, quasi ratione?Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti itaque nemo praesentium odio. Soluta eum enim consectetur, a architecto maxime nisi, aliquam harum temporibus quos quam expedita repudiandae, quasi ratione?Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti itaque nemo praesentium odio. Soluta eum enim consectetur, a architecto maxime nisi, aliquam harum temporibus quos quam expedita</b>
+                        <b><?php echo $_POST['Story']?></b>
                     </div>
                 </div>
             </div>
