@@ -105,11 +105,11 @@ z-index: 1;
     font-family: 'Itim', cursive;
 }
 
-a.home {
+.home a {
     text-decoration: none;
     font-family: 'Itim', cursive;
     color: #000000;
     position: relative;
-    justify-items: center;
+    align-items: center;
     border-bottom: 2px solid #333333;
 }
